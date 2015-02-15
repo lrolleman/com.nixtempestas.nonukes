@@ -1,0 +1,12 @@
+{
+    "enabled" : true,
+    "context" : "server",
+    "identifier" : "com.nixtempestas.nonukes",
+    "display_name" : "No Nukes",
+    "description" : "Turns off nukes and anti-nukes. update of ccfreak2k's mod",
+    "author" : "nixtempestas",
+    "date" : "2015/02/15",
+    "forum" : "https://forums.uberent.com/threads/wip-server-no-nukes.61617/",
+    "version" : "1.1",
+    "signature" : "(not yet implemented)"
+}
